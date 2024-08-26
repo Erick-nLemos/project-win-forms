@@ -1,0 +1,10 @@
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\bin\Debug\WinForm02.exe.config
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\bin\Debug\WinForm02.exe
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\bin\Debug\WinForm02.pdb
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.csproj.AssemblyReference.cache
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.Form1.resources
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.Properties.Resources.resources
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.csproj.GenerateResource.cache
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.csproj.CoreCompileInputs.cache
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.exe
+C:\Users\toper\source\repos\learningWinForms\LearningWinForms\WinForm02\obj\Debug\WinForm02.pdb
